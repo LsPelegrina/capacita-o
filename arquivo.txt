@@ -1,1 +1,2 @@
 arquivo.txt
+este é outra pessoa
